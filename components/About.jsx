@@ -24,7 +24,7 @@ const About = () => {
           </p>
           <p className='py-2 text-gray-600'>
           I’m impressed by your company’s commitment to growth and development of its employees and
-          I been searchin for such company
+          I been searching for such company
           that empowers and challenges its employees to be the best professionals they can be.
           In my research, I’ve found that <span className='text-[#5651e5]'> SovTech.</span> invest in ongoing education of its employees 
           through education reimbursement, onsite training and mentorship programs. 
